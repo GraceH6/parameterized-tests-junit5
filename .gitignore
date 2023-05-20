@@ -4,10 +4,10 @@ build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 .idea
-*.gradle
 gradlew
 gradlew.bat
 gradle/
+settings.gradle
 
 
 
