@@ -7,5 +7,6 @@ public class TestBase {
     @BeforeAll
     static void beforeAll() {
         Configuration.browserSize = "1860x1600";
+        Configuration.pageLoadStrategy = "eager";
     }
 }
